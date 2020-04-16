@@ -20,8 +20,6 @@ Xcode Command Line Tools or other C++ Compiler
 R-Software (https://cran.r-project.org)
 
 ```
-username="Your User Name"
-password="Your password"
 
 git clone https://github.com/heilandd/SPATA-Lab
 
