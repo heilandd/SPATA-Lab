@@ -1,5 +1,5 @@
 <p align="center">
-# SPATA-Lab 
+# <h1 "SPATA-Lab" 
 <p
    
 # SPAtial Transcriptome Analysis 
