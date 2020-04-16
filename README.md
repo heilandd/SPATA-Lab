@@ -1,5 +1,7 @@
+<p align="center">
 # SPATA-Lab 
-#
+<p
+   
 # SPAtial Transcriptome Analysis 
 
 
