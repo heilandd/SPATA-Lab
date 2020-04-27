@@ -32,7 +32,7 @@ cd SPATA-Lab
 bash install.sh
 
 ```
-A new Folder will be created calles VIS_Lab_v
+A new Folder will be created calles SPATA-Lab
 -> in the folder is a file called "launch"
 -> This is a double-click executable file, can be copied where ever you need it
 
