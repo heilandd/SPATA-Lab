@@ -1,3 +1,5 @@
+<h1  Update:
+<h1 The software toolist is deprecated and will no longer be updated, please use the new software: https://themilolab.github.io/SPATA/index.html
 
 
 <h1 align="center">SPATA-Lab</h1>
@@ -14,8 +16,6 @@ This is a viewer for array-based spatial transcriptomics for explorative analysi
 
 
 
-### Update:
-The software toolist is deprecated and will no longer be updated, please use the new software: https://themilolab.github.io/SPATA/index.html
 
 
 ## How to install the package from GitHub
