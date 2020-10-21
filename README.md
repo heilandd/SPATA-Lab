@@ -1,5 +1,5 @@
-<h1  Update:
-<h1 The software toolist is deprecated and will no longer be updated, please use the new software: https://themilolab.github.io/SPATA/index.html
+# Update:
+# The software toolist is deprecated and will no longer be updated, please use the new software: https://themilolab.github.io/SPATA/index.html
 
 
 <h1 align="center">SPATA-Lab</h1>
